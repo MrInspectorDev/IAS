@@ -1,4 +1,4 @@
-IJS-AppleScript
+IJS-AppleScript (IAS)
 ===============
 
-IJS Built in AppleScript!
+IJS Built with AppleScript = IAS!
